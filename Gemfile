@@ -27,3 +27,4 @@ end
 
 gem 'execjs'
 gem 'therubyracer'
+gem 'libv8'
